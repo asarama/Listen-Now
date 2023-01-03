@@ -1895,3 +1895,40 @@ body.is-preload #footer {
 #about .image:before {
 	background-color: unset;
 }
+
+.top-banner {
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    background-color: #2cabe2;
+    font-family: "poppins", sans-serif;
+  }
+  
+  .banner__text {
+    color: #ffffff;
+    text-align:center;
+    flex-grow: 1;
+    line-height: 1.4;
+    font-family: "poppins", sans-serif;
+  }
+  
+  .calltoaction {
+    display: inline-block;
+    text-decoration: none;
+    flex-grow: 1;
+    line-height: 1.4;
+    width: 200px;
+    border: #ffffff;
+    background-color: #ffffff;
+    border-style: solid;
+    border-radius: 20px;
+    margin-top: 1rem;
+    padding: 6px;
+    text-decoration: none;
+    color: #2cabe2;
+    font-family: "poppins", sans-serif;
+  }
+
+  .top-banner a:hover {
+    color: #ffc330;
+  }
