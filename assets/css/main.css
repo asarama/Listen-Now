@@ -1902,6 +1902,7 @@ body.is-preload #footer {
     text-align: center;
     background-color: #2cabe2;
     font-family: "poppins", sans-serif;
+    z-index: 999;
   }
   
   .banner__text {
